@@ -80,7 +80,7 @@ function App() {
   }
 
   return (
-    <BrowserRouter basename='/moviedb'>
+    <BrowserRouter basename='/movied/'>
       <header>
         <div className='head'>
           <div>
